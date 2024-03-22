@@ -1,0 +1,1 @@
+# yb_chatbot_resource
